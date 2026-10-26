@@ -9,12 +9,7 @@
   <a href="#code-release"><img src="https://img.shields.io/badge/Code-In%20Preparation-d97706" alt="Code in preparation"></a>
 </p>
 
-<p>
-  <a href="https://bangwayne.github.io/">Bangwei Guo</a>, Yunhe Gao, Meng Ye, Yang Zhou,<br>
-  Difei Gu, Guoning Zhang, Leon Axel, Dimitris N. Metaxas
-</p>
 
-<p>Rutgers University · Stanford University · The University of Texas at Arlington · New York University</p>
 
 <p><a href="https://arxiv.org/abs/2610.06938"><b>Paper</b></a> · <a href="https://arxiv.org/pdf/2610.06938"><b>PDF</b></a> · <a href="#citation"><b>Citation</b></a></p>
 
