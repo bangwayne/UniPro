@@ -58,11 +58,10 @@ UniPro brings automatic prediction, reference-guided segmentation, interactive c
 If you find this work useful, please consider citing our paper:
 
 ```bibtex
-@inproceedings{guo2026unipro,
-  title     = {{UniPro}: Unified Multi-Mode Medical Image Segmentation from {2D} Images to {3D} Volumes via Propagation},
-  author    = {Guo, Bangwei and Gao, Yunhe and Ye, Meng and Zhou, Yang and Gu, Difei and Zhang, Guoning and Axel, Leon and Metaxas, Dimitris N.},
-  booktitle = {Advances in Neural Information Processing Systems},
-  year      = {2026},
-  url       = {https://arxiv.org/abs/2610.06938}
+@article{guo2026unipro,
+  title={UniPro: Unified Multi-Mode Medical Image Segmentation from 2D Images to 3D Volumes via Propagation},
+  author={Guo, Bangwei and Gao, Yunhe and Ye, Meng and Zhou, Yang and Gu, Difei and Zhang, Guoning and Axel, Leon and Metaxas, Dimitris},
+  journal={arXiv preprint arXiv:2610.06938},
+  year={2026}
 }
 ```
